@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Frigate Wrapper</string>
+    <string name="url_input_hint">Enter URL</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="reload_button_text">Reload</string>
+    <string name="settings_button_text">Settings</string>
+    <string name="invalid_url_message">Invalid URL. Expected \'Frigate\'.</string>
+    <string name="setup_url_error_message">Please enter a valid URL.</string>
+    <string name="enter_url_to_frigate">Please enter a URL to Frigate.</string>
+
+</resources>
